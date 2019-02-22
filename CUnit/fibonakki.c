@@ -61,7 +61,7 @@ void saveFibonacciSeries(unsigned long long *series, long n, char *filename){
 		fclose(file);
 
 	}else{
-		printf("Something went wrong with your file.\n");
+		printf("Something went wrong with your file %s.\n", filename);
 		exit(1);	
 	}
 	
