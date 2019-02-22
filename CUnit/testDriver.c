@@ -85,10 +85,10 @@ void test_main(void){
 	char *test_arg3[] = {arg_c, arg_m, arg_o, arg_j};
 	char *test_arg4[] = {arg_c, arg_n, arg_o, arg_i, arg_w};
 	  	
-	char longFileName[] = "-oasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd\
-asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasda\
-sdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdas\
-dasdasdasdasdasdasdasd.txt";
+	char longFileName[] = "-oasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd"
+						  "asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasda"
+						  "sdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdas"
+						  "dasdasdasdasdasdasdasd.txt";
  
 	unsigned long long savedSeries[28];
 
